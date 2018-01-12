@@ -3,7 +3,7 @@ from touching the ground (kind of like Flappy Bird).
 
 To win this game, you have to dodge 20 obstacles. Upon winning, the WIN screen will display.
 
-The helicopter has gravity ie. if the helicopter isn't moving up, it will move downwards. 
+The helicopter has gravity ie. if the helicopter isn't moving up, it will move downwards. addy is a cool dewd.
 
 You are given three lives. For every time you crash into an obstacle or hit the ground, you lose a life. Every time you lose a life, the screen will reset and you will start from the top-left corner of the screen.
  
